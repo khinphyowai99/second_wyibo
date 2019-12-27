@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">exercise1</string>
+    <string name="mylove">MY LOVE,</string>
+    <string name="mylove1">YOU LIKE A FLOWER</string>
+    <string name="mylove2">Editor\'s Choice</string>
+    <string name="mylove3">I am a final year student that attending to University of Computer Studies Monywa. I am interesting in software development and I want to write program.If can be, I want to be a  professional programmar. To be a professional programmar, I will need to have experience and to know a lot of  back-end development language. To know languages,I can study on the onlineby selfstudy and training course but to have experience, I will need your company . Now,I experienced in  Java(J2EE),C#,HTML,CSS and a little experience in Android(Java,Kotlin) and php. I have written projects in the Universitywith my friends. And I participated in Project Show and Job Fair at our University. I have written the projects with C++, DBMS(MySQL), C#, j2EE, SE(Software Engineering) and Android(Java) languages. At the projects, I was a member anda leader.</string>
+    <string name="mylove4">Computer university</string>
+    <string name="btn_text">Order Now</string>
+</resources>
